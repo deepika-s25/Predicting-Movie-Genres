@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 20 14:44:11 2019
 
-@author: Shabbir Khan
+@author: Deepika S
 """
 
 from sklearn import model_selection, preprocessing, naive_bayes, metrics
